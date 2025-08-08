@@ -9,6 +9,6 @@ For the moment, the code is **adapted only to data from the EyeBrain T2 eyetrack
 
 There are already pupil data analysis scripts and libraries online, but perhaps my contribution can encourage others to improve on my work or even propose a universal matlab pipeline, all accompanied by an easy-to-use interface 😏. 
 
-Feel free to contact me : adrian.ruiz-chiapello@cnrs.fr
+Feel free to contact me : adrian.ruizchiapello@gmail.fr
 
 
